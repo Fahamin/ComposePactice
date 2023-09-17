@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
 
     @Composable
     private fun appHome() {
-        Disposableeffet()
+       // Disposableeffet()
+        Counter()
     }
 }
